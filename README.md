@@ -1,17 +1,17 @@
 Linux 裝B 小工具
 ===
 
-- [Recommended Software](#recommended-software)
-	- [Zsh](#zsh)
-	- [Antigen](#antigen)
-		- [Oh my zsh](#oh-my-zsh)
-	- [The Fuck](#the-fuck)
-	- [Ranger](#ranger)
-	- [Vundle](#vundle)
-
 這是一份整理Linux小工具的文件。
 
 本文內容僅提供安裝方式，詳細特效與範例請參照來源使用。
+
+- [Recommended Software](#recommended-software)
+  - [Zsh](#zsh)
+  - [Antigen](#antigen)
+    - [Oh my zsh](#oh-my-zsh)
+  - [The Fuck](#the-fuck)
+  - [Ranger](#ranger)
+  - [Vundle](#vundle)
 
 ## Recommended Software
 原本在Linux就廣為人知且必裝之好用工具
