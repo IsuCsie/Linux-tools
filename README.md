@@ -115,3 +115,13 @@ sudo apt-get install -y ranger
 //Archlinux
 sudo pacman -Sy ranger
 ```
+
+###Vundle
+來源：[gmarik/Vundle.vim](https://github.com/gmarik/Vundle.vim)
+
+一款好用的 vim 套件管理工具，讓你可以輕易的將自己的 vim 提升到另一個層次。
+
+如果你有在寫 python 就可以嘗試一下 [fisa-vim-config](https://github.com/fisadev/fisa-vim-config)
+
+
+
