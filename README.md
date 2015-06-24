@@ -5,15 +5,16 @@ Linux 裝B 小工具
 
 本文內容僅提供安裝方式，詳細特效與範例請參照來源使用。
 
-- [Recommended Software](#recommended-software)
+- Linux 裝B 小工具
+  - [推薦必裝軟體](#推薦必裝軟體)
   - [Zsh](#zsh)
   - [Antigen](#antigen)
-    - [Oh my zsh](#oh-my-zsh)
+  - [Oh my zsh](#oh-my-zsh)
   - [The Fuck](#the-fuck)
   - [Ranger](#ranger)
   - [Vundle](#vundle)
 
-## Recommended Software
+## 推薦必裝軟體
 原本在Linux就廣為人知且必裝之好用工具
 
 - wget, curl
@@ -28,17 +29,20 @@ Linux 裝B 小工具
   - 終端機的系統監控
 - aptitude
   - Ubuntu用安裝套件工具
+- yaourt
+  - AUR工具
 - packer
   - Archlinux上比yaourt還好用的AUR工具
 
 ```
 //Ubuntu
-sudo apt-get install -y wget git vim tmux htop nmon aptitude
+sudo apt-get update && sudo apt-get install -y wget git vim tmux htop nmon aptitude
 ```
 
 ```
 //Archlinux
-sudo pacman -Sy wget curl git vim tmux htop packer
+sudo pacman -Syu wget curl git vim tmux htop yaourt
+sudo yaourt -Sy packer
 ```
 
 ### Zsh
