@@ -17,8 +17,13 @@ sudo apt-get install -y tmux git zsh curl vim ranger
 sudo pacman -Sy tmux git zsh curl vim ranger
 ```
 
+### 切換預設Shell為Zsh
+```bash
+chsh -s /bin/zsh
+```
 
-## Start fucking 擴充功能
+
+## 擴充功能
 ### Antigen
 來源：[zsh-users/antigen](https://github.com/zsh-users/antigen)
 
