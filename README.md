@@ -1,19 +1,21 @@
 Linux 裝B 小工具
 ===
 
-- [推薦預裝軟體](#)
-	- [Zsh](#)
-	- [Antigen](#)
-		- [Oh my zsh](#)
-	- [The Fuck](#)
-	- [Ranger](#)
-	- [Vundle](#)
+<!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
+	- [Recommended Software](#recommended-software)
+		- [Zsh](#zsh)
+		- [Antigen](#antigen)
+			- [Oh my zsh](#oh-my-zsh)
+		- [The Fuck](#the-fuck)
+		- [Ranger](#ranger)
+		- [Vundle](#vundle)
+<!-- /TOC -->
 
 這是一份整理Linux小工具的文件。
 
 本文內容僅提供安裝方式，詳細特效與範例請參照來源使用。
 
-## 推薦預裝軟體
+## Recommended Software
 原本在Linux就廣為人知且必裝之好用工具
 
 - wget, curl
@@ -122,6 +124,3 @@ sudo pacman -Sy ranger
 一款好用的 vim 套件管理工具，讓你可以輕易的將自己的 vim 提升到另一個層次。
 
 如果你有在寫 python 就可以嘗試一下 [fisa-vim-config](https://github.com/fisadev/fisa-vim-config)
-
-
-
