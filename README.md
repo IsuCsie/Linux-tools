@@ -11,7 +11,8 @@ Linux 裝B 小工具
     - [Oh my zsh](#oh-my-zsh)
   - [The Fuck](#the-fuck)
   - [Ranger](#ranger)
-  - [Vundle](#vundle)
+  - [vim](#vim)
+    - [Vundle](#vundle)
 
 ## Recommended Software
 原本在Linux就廣為人知且必裝之好用工具
@@ -115,6 +116,11 @@ sudo apt-get install -y ranger
 //Archlinux
 sudo pacman -Sy ranger
 ```
+
+###vim
+Linux 上超級好用的編輯器被稱為***編輯器之神***
+常被拿來與 Emacs (神的編輯器) 做比較。
+
 
 ###Vundle
 來源：[gmarik/Vundle.vim](https://github.com/gmarik/Vundle.vim)
