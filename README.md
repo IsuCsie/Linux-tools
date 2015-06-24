@@ -7,7 +7,7 @@ Linux 裝B 小工具
 
 - [Recommended Software](#recommended-software)
   - [Zsh](#zsh)
-  - [Antigen](#antigen)
+    - [Antigen](#antigen)
     - [Oh my zsh](#oh-my-zsh)
   - [The Fuck](#the-fuck)
   - [Ranger](#ranger)
