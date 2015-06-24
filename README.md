@@ -2,6 +2,7 @@ Linux 裝B 小工具
 ===
 
 <!-- TOC depth:6 withLinks:1 updateOnSave:1 -->
+
 - [Recommended Software](#recommended-software)
 	- [Zsh](#zsh)
 	- [Antigen](#antigen)
@@ -9,6 +10,7 @@ Linux 裝B 小工具
 	- [The Fuck](#the-fuck)
 	- [Ranger](#ranger)
 	- [Vundle](#vundle)
+
 <!-- /TOC -->
 
 這是一份整理Linux小工具的文件。
