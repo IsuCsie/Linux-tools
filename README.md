@@ -48,6 +48,7 @@ sudo yaourt -S packer
 ```
 
 ### Zsh
+來源：[Zsh](http://www.zsh.org/)
 
 ```
 //Ubuntu
@@ -67,7 +68,7 @@ chsh -s /bin/zsh
 
 
 ### fish
-http://fishshell.com/
+來源：[fish shell](http://fishshell.com/)
 很厲害的 shell
 
 ```
