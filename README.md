@@ -44,24 +44,24 @@ sudo apt-get update && sudo apt-get install -y wget git vim tmux htop nmon aptit
 ```
 //Archlinux
 sudo pacman -Syu wget curl git vim tmux htop yaourt
-sudo yaourt -Sy packer
+sudo yaourt -S packer
 ```
 
 ### Zsh
 
-```bash
+```
 //Ubuntu
-sudo apt-get install -y zsh
+sudo apt-get update && sudo apt-get install -y zsh
 ```
 
-```bash
+```
 //Archlinux
-sudo pacman -Sy zsh
+sudo pacman -Syu zsh
 ```
 
 - 切換預設Shell為Zsh
 
-```bash
+```
 chsh -s /bin/zsh
 ```
 
@@ -69,16 +69,22 @@ chsh -s /bin/zsh
 ### fish
 http://fishshell.com/
 很厲害的 shell
+
 ```
 //Ubuntu
 sudo apt-get update && sudo apt-get install -y fish
+```
+
+```
+//Archlinux
+sudo pacman -Syu fish
 ```
 
 
 ### Antigen
 來源：[zsh-users/antigen](https://github.com/zsh-users/antigen)
 
-```bash
+```
 //Install
 curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
 source antigen.zsh
@@ -90,13 +96,13 @@ source antigen.zsh
 
 很多好用東西的Zsh擴充
 
-```bash
+```
 //oh-my-zsh
 antigen bundle robbyrussell/oh-my-zsh
 ```
 
 安裝完Oh-my-Zsh後修改`~/.zshrc`
-```bash
+```
 ZSH_THEME=robbyrussell
 ```
 將robbyrussell修改成想要的名稱，[主題一覽](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
@@ -107,28 +113,28 @@ ZSH_THEME=robbyrussell
 一個可以校正指令的好用工具
 [安裝來源參考](https://github.com/nvbn/thefuck/wiki/Installation)
 
-```bash
+```
 //Ubuntu
-sudo apt-get install -y python-pip python-dev
+sudo apt-get update && sudo apt-get install -y python-pip python-dev
 sudo pip install thefuck
 ```
 
-```bash
+```
 //Archlinux
-sudo pacman -Sy thefuck
+sudo pacman -Syu thefuck
 ```
 ### Ranger
 來源: [hut/ranger](https://github.com/hut/ranger)
 
 vi風格的檔案瀏覽器
-```bash
+```
 //Ubuntu
-sudo apt-get install -y ranger
+sudo apt-get update && sudo apt-get install -y ranger
 ```
 
-```bash
+```
 //Archlinux
-sudo pacman -Sy ranger
+sudo pacman -Syu ranger
 ```
 
 ###vim
