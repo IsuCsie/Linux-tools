@@ -8,6 +8,7 @@ Linux 裝B 小工具
 - Linux 裝B 小工具
   - [推薦必裝軟體](#推薦必裝軟體)
   - [Zsh](#zsh)
+  - [fish](#fish)
   - [Antigen](#antigen)
   - [Oh my zsh](#oh-my-zsh)
   - [The Fuck](#the-fuck)
@@ -62,6 +63,15 @@ sudo pacman -Sy zsh
 
 ```bash
 chsh -s /bin/zsh
+```
+
+
+### fish
+http://fishshell.com/
+很厲害的 shell
+```
+//Ubuntu
+sudo apt-get update && sudo apt-get install -y fish
 ```
 
 
